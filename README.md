@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hey there! You've found your way to my Github profile, I work on random things ranging from pretty terrible discord bots, to random modifications for VRChat.
+Hey there! You've found your way to my Github profile, I work on random things ranging from pretty terrible discord bots, to random modifications for ChilloutVR.
 </br>Hope you enjoy your stay!
 
 ## Stats
